@@ -10,6 +10,6 @@ $git clone https://github.com/jiwoong7813/dbw_mkz_ros2
 ```
 
 Here's more information.
-[dbw_mkz_ros2](https://github.com/jiwoong7813/dbw_mkz_ros)
+[dbw_mkz_ros](https://github.com/jiwoong7813/dbw_mkz_ros)
 ----------
 
